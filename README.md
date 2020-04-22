@@ -1,6 +1,8 @@
 # An Interactive Introduction to JavaScript DOM
 
-A simple java "Hello World!" application, buildable with both maven and gradle. Useful for testing Eclipse Che Java workspaces.
+Learn how to make web pages Dynamic and Interactive using JavaScript to influence and manipulate page elements
+
+(A simple java "Hello World!" application, buildable with both maven and gradle. Useful for testing Eclipse Che Java workspaces.)
 
 
 # Building manually
